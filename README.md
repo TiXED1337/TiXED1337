@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2750&color=F7ACF2&multiline=true&height=105&lines=%D1%82%D0%B8%D0%BA%D1%81%D1%8F+owo;%D1%81%D0%B0%D1%81%D0%B8+%D0%B1%D0%B0%D0%BA%D0%B0+;16y.o.+stupid+fortnite+kid;--------------------------++++++++++++++++++++++++++++++++++++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+bold&duration=2000&pause=2000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=16+y.o.+goofy+ass+valorant+player)](https://git.io/typing-svg)

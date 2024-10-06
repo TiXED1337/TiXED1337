@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+bold&duration=2000&pause=1999&color=FFFFFF&center=true&vCenter=true&width=435&lines=16+y.o.+goofy+ass+valorant+player)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=75&duration=4000&pause=1500&color=F7F7F7&background=000000&center=true&vCenter=true&random=true&width=450&height=100&lines=TIXYA)](https://git.io/typing-svg)
